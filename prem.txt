@@ -1,0 +1,1 @@
+hi i am prem trying for the first time to use git using github and practicing the git command to clone the repo and then push it to the github.
