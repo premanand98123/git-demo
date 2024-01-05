@@ -1,1 +1,3 @@
 hi i am prem trying for the first time to use git using github and practicing the git command to clone the repo and then push it to the github.
+the first line was got committed lets check for this line too!!!
+Thank you if you are reading this. 
